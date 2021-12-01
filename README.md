@@ -1,2 +1,2 @@
 # zenps
-A High Performance GPU-version Parameter Server
+A High Performance GPU Parameter Server
